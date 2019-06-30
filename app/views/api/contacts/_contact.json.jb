@@ -8,4 +8,5 @@
   full_name: contact.full_name,
   japan_code: contact.country_code,
   middle_name: contact.middle_name,
+  bio: contact.bio,
 }
